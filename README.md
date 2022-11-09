@@ -1,6 +1,8 @@
 # Act. 4.2 - Grafos: sus representaciones y sus recorridos
 
-## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
+## David René Langarica Hernández A01708936
+
+### <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
 
 Realiza en forma individual una aplicación en C++ llamada "appGrafo.cpp" que:
 
